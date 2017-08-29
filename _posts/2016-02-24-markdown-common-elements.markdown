@@ -9,7 +9,8 @@ tag:
 - elements
 star: true
 category: blog
-author: johndoe
+#hidden: true
+author: g3rm4n
 description: Markdown summary with different options
 ---
 

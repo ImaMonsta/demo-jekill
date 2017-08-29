@@ -1,5 +1,5 @@
 # main text of home
-name: <g3rm4n/>
+name: g3rm4n
 bio: A Man who likes to code
 
 # twitter summary info
@@ -19,7 +19,7 @@ resume-url: https://google.com/?q=my+resume
 url: https://g3rm4n.xyz
 # your url: http://USERNAME.github.io
 
-permalink: /:title/
+permalink: /posts/:title/
 
 # To enable google analytics, supply your token below
 # analytics-google: 'UA-MYANALYTICS'
