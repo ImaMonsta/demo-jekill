@@ -1,14 +1,14 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: <g3rm4n/>
+bio: A Man who likes to code
 
 # twitter summary info
 description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
-picture: assets/images/profile.jpg
+external-image: true
+picture: https://www.gravatar.com/avatar/d67612c2a3a5243efe7abbc9078261ae?s=200
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -34,37 +34,31 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+#facebook: myfacebook
+twitter: 1m_g3rm4n
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: imamonsta
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+#medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: me@g3rm4n.xyz
 
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
-        external-image: false
-        picture: assets/images/profile.jpg
-        twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
+    g3rm4n:
+        name: German Garcia
+        bio: A Man who likes to code
+        external-image: true
+        picture: https://www.gravatar.com/avatar/d67612c2a3a5243efe7abbc9078261ae?s=200
+        twitter: 1m_g3rm4n
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -108,3 +102,5 @@ plugins:
 
 jekyll-mentions:
     base_url: https://github.com
+port: 3000
+host: 0.0.0.0
