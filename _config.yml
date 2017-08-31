@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://registry.jsonresume.org/germangarcia?theme=eddywashere
 
-url: https://g3rm4n.xyz
+url: http://g3rm4n.xyz
 # your url: http://USERNAME.github.io
 
 permalink: /posts/:title/
