@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ":imp: I've got a Question"
+title: ":imp: I've got a Question (Workshop)"
 date: 2017-10-10 16:16:01 
 image: https://user-images.githubusercontent.com/4968580/31447162-ecdc7e82-ae66-11e7-87e8-326b8a824fc7.png
 author: g3rm4n
