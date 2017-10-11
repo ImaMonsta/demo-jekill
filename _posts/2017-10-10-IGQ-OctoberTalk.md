@@ -6,6 +6,7 @@ image: /assets/images/markdown.jpg
 author: g3rm4n
 headerImage: false
 category: project
+projects: true
 tag:
 - react
 - firebase
