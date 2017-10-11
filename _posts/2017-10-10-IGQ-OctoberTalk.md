@@ -1,7 +1,7 @@
 ---
 layout: post
-title:   ":imp: I've got a Question"
-date:   2017-10-10 16:16:01 
+title: ":imp: I've got a Question"
+date: 2017-10-10 16:16:01 
 image: /assets/images/markdown.jpg
 author: g3rm4n
 headerImage: false
@@ -14,7 +14,10 @@ tag:
 description: This is a react based web application for an October Talk Workshop.
 ---
 
-[I've got a Question](https://igq.g3rm4n.xyz) is a React based Single Page Web Application (too long name) for an [October Talk](https://www.eventbrite.com/e/october-talks-2017-tickets-38736825889) Workshop.
+[I've got a Question](https://igq.g3rm4n.xyz) is a React based Single Page Web Application (too long name) for an October Talk Workshop.
+
+<a target="_blank" href="https://www.eventbrite.com/e/october-talks-2017-tickets-38736825889">
+<img alt="Nearsoft OctoberTalk" src="https://user-images.githubusercontent.com/4968580/31447162-ecdc7e82-ae66-11e7-87e8-326b8a824fc7.png" height="200"></a>
 
 What has inside?
 
