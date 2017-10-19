@@ -27,5 +27,5 @@ What has inside?
 
 
 ---
-[Check it out](https://github.com/ImaMonsta/bawdy-rebels) here.
+[Check it out](https://github.com/ImaMonsta/lawdy-rebels) here.
 If you need some help, just fell free to [tweet me](https://twitter.com/1m_g3rm4n).
