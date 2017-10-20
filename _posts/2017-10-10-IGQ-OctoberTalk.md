@@ -25,7 +25,7 @@ What has inside?
 - Travis for CI
 - yarn
 
-![image](https://user-images.githubusercontent.com/4968580/31795917-45cca6ac-b4ed-11e7-8de8-0daf3e869dc4.png)
+![image](https://user-images.githubusercontent.com/4968580/31805891-09155366-b52a-11e7-9991-728288e1f0fd.png)
 
 
 ---
