@@ -1,7 +1,7 @@
 # main text of home
 name: g3rm4n
 title: g3rm4n
-bio: A Man who likes to code
+bio: A man who likes to code
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -56,7 +56,7 @@ email: me@g3rm4n.xyz
 authors:
     g3rm4n:
         name: German Garcia
-        bio: A Man who likes to code
+        bio: A man who likes to code
         external-image: true
         picture: https://www.gravatar.com/avatar/d67612c2a3a5243efe7abbc9078261ae?s=200
         twitter: 1m_g3rm4n
