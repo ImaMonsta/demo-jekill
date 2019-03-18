@@ -15,7 +15,12 @@
                 <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
             </span>
         {% endif %}
-
+         
+        <div id="typed-strings">
+             <p>Typed.js is a <strong>JavaScript</strong> library.</p>
+             <p>It <em>types</em> out sentences.</p>
+        </div>
+        <span id="typed"></span>
         <h1 class="title">{{ site.name }}</h1>
         <h2 class="description">{{ site.bio }}</h2>
 
