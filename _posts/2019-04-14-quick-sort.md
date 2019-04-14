@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Quick Sort in C#!"
-date:   2017-08-28 16:16:01 
+date:   2019-04-14 00:01:01 
 image: /assets/images/markdown.jpg
 author: g3rm4n
 headerImage: false
